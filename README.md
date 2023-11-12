@@ -4,26 +4,23 @@
 Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, <a href="https://tianshuocong.github.io/" target="_blank" style="text-decoration: none;">Tianshuo Cong</a>, <a href="mailto: anyuwang@tsinghua.edu.cn" target="_blank" style="text-decoration: none;">Anyu Wang</a>, Sisi Duan, Xiaoyun Wang  
 </p>
 
-<p align='center' style="text-align:center; font-size:1em; color: rgb(255, 50, 50)">
-Warning: This repo contains harmful model responses!!!
-</p>
+$${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!!!}}}$$
 
 [![arXiv](https://img.shields.io/badge/arxiv-2311.05608-b31b1b)](https://arxiv.org/abs/2311.05608) ![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) ![GitHub watchers](https://img.shields.io/github/watchers/ThuCCSLab/FigStep)
 
 <div align="center">
-<img width="30%" alt="FigStep" src="assets/figstep.jpg">
-<figcaption>(The figure, created by DALL·E 3, is inspired by and serves as a tribute to the film  "The Shawshank Redemption".)</figcaption>
+<img width="50%" alt="FigStep" src="assets/figstep.jpg">
 </div>
 
+$${\color{gray}\text{\emph{ The figure, created by DALL·E 3, is inspired by and serves as a tribute to the film ``The Shawshank Redemption.''}}}$$
 
 ## Overview
-`FigStep` is a black-box, no gradient needed jailbreaking algorithm against large vision-language models (VLMs).
+FigStep is a black-box, no gradient needed jailbreaking algorithm against large vision-language models (VLMs).
 For instance, FigStep feeds harmful instructions into VLMs through the image channel and then uses benign text prompts to induce VLMs to output contents that violate common AI safety policies.
 Our experimental results reveal that VLMs are vulnerable to jailbreaking attacks, which highlights the necessity of novel safety alignments between visual and textual modalities
 
 <div align="center">
-<img width="50%" alt="FigStep" src="assets/workflow.png">
-<figcaption>The workflow of FigStep.</figcaption>
+<img width="80%" alt="FigStep" src="assets/workflow.png">
 </div>
 
 ## Usage
@@ -41,15 +38,13 @@ We used `Prompt 3` in our paper to generate these harmful questions.
 The harmfulness score (evaluated by GPT-4 evaluator) distribution for FigStep attack demonstrates a similar pattern among different open-source models (LLaVA and MiniGPT-4), exhibiting pronounced peaks at a score of 5, with minimal occurrences at other scores.
 
 <div align="center">
-<img width="70%" alt="FigStep" src="assets/asr.png">
-<figcaption>The effectiveness of FigStep.</figcaption>
+<img width="100%" alt="FigStep" src="assets/asr.png">
 </div>
 
 Also, FigStep can achieve high ASR across different VLMs and different harmful topics.
 
 <div align="center">
-<img width="70%" alt="FigStep" src="assets/asr_topic.png">
-<figcaption>The distribution of FigStep ASR over harmful topics.</figcaption>
+<img width="100%" alt="FigStep" src="assets/asr_topic.png">
 </div>
 
 To examine how FigStep affects the model’s behavior, we generate different
@@ -57,8 +52,7 @@ prompts for the same query and compare their semantic embeddings.
 The results in the following figure reveal that the embeddings of benign and harmful queries are clearly separated when using `Prompt 6` in our paper, suggesting that the underlying LLM can distinguish them well. However, the embeddings of benign and harmful queries are blended together when using FigStep, suggesting that the visual modality is not safely aligned.
 
 <div align="center">
-<img width="30%" alt="FigStep" src="assets/tsne.png">
-<figcaption>The distribution of FigStep ASR over harmful topics.</figcaption>
+<img width="50%" alt="FigStep" src="assets/tsne.png">
 </div>
 
 
@@ -72,7 +66,6 @@ Compared with FigStep, FigStep-Pro leverages additional post-processing: FigStep
 ## Jailbreak Instances
 <div align="center">
 <img width="100%" alt="FigStep" src="assets/instance.png">
-<figcaption>Jailbreak LLaVA via FigStep and jailbreak GPT-4V via FigStep-Pro.</figcaption>
 </div>
 
 
