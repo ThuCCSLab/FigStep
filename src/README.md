@@ -2,7 +2,7 @@
 
 **CONTENT WARNING: Some files may cause VLMs to produce potentially harmful content.**
 
-We are still arraging our codes for FigStep. Please stay tuned :)
+We are still arranging our codes for FigStep. Please stay tuned :)
 
 | Path                | Description                                                          |
 | ------------------- | -------------------------------------------------------------------- |
