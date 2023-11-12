@@ -55,6 +55,11 @@ The results in the following figure reveal that the embeddings of benign and har
 <img width="50%" alt="FigStep" src="assets/tsne.png">
 </div>
 
+## Ablation Study
+<div align="center">
+<img width="100%" alt="FigStep" src="assets/ablation.png">
+</div>
+
 
 ## FigStep-Pro
 We noticed that OpenAI launched an OCR tool to detect the presence of harmful
