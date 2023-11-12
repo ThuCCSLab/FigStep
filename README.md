@@ -65,7 +65,7 @@ The results in the following figure reveal that the embeddings of benign and har
 We noticed that OpenAI launched an OCR tool to detect the presence of harmful
 information with the image-prompt. 
 However, we find that an upgraded version of FigStep, namely `FigStep-Pro`, could bypass the OCR detector and then jailbreak GPT-4V.
-Compared with FigStep, FigStep-Pro leverages additional post-processing: FigStepPro cuts up the screenshot of FigStep (see Figure 12). To this end, the text in each sub-figure is then turned harmless or meaningless and passes the moderation test. Then we feed all the subfigures together into GPT-4V and design an inciting text-prompt to induce GPT-4V to concatenate subfigures and generate the steps to manufacture the item with the concatenated image.
+Compared with FigStep, FigStep-Pro leverages additional post-processing: FigStepPro cuts up the screenshot of FigStep (see Figure 12 in our paper). To this end, the text in each sub-figure is then turned harmless or meaningless and passes the moderation test. Then we feed all the subfigures together into GPT-4V and design an inciting text-prompt to induce GPT-4V to concatenate subfigures and generate the steps to manufacture the item with the concatenated image.
 
 
 ## Jailbreak Instances
