@@ -14,6 +14,13 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 
 $${\color{gray}\text{\emph{ The figure, created by DALL·E 3, is inspired by and serves as a tribute to the film ``The Shawshank Redemption.''}}}$$
 
+
+## Demo
+
+https://github.com/ThuCCSLab/FigStep/assets/130946151/b39e1593-1c61-4265-9d9c-6465f3bdde5c
+
+
+
 ## Overview
 FigStep is a black-box, no gradient needed jailbreaking algorithm against large vision-language models (VLMs).
 For instance, FigStep feeds harmful instructions into VLMs through the image channel and then uses benign text prompts to induce VLMs to output contents that violate common AI safety policies.
