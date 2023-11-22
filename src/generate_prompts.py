@@ -39,7 +39,7 @@ def text_to_image(text: str):
     return im
 
 def wrap_text(text):
-    return textwrap.fill(text, width=40)
+    return textwrap.fill(text, width=15)
 
 
 def text_step_by_step(text: str, steps=3, wrap=False):
