@@ -84,7 +84,7 @@ Compared with FigStep, FigStep-Pro leverages additional post-processing: FigStep
 
 ## Citation
 
-If you find our work helpful, please star us 🌟 and cite it as follows:
+If you find our work helpful, feel free to leave a 🌟 or cite it as follows, thanks!
 ```bibtex
 @misc{gong2023figstep,
       title={FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts}, 
