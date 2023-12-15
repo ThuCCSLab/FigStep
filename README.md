@@ -92,6 +92,7 @@ Compared with FigStep, FigStep-Pro leverages additional post-processing: FigStep
 <div align="center">
 <img width="100%" alt="FigStep" src="assets/instances.jpg">
 </div>
+
 ## Citation
 
 If you find our work helpful, feel free to leave a 🌟 or cite it as follows, thanks!
