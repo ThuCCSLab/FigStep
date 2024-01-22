@@ -1,3 +1,7 @@
+<div align="center">
+<img width="70%" alt="FigStep" src="assets/fs-logo.png">
+</div>
+
 <h1 align="center">FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts</h1>
 
 <p align='center' style="text-align:center;font-size:1em;">
@@ -9,15 +13,8 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 
 
 [![arXiv](https://img.shields.io/badge/arxiv-2311.05608-b31b1b)](https://arxiv.org/abs/2311.05608) 
-![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) 
 <img src="https://badges.toozhao.com/badges/01HMRHJVW62ZSPPQN0X6JF1PPY/blue.svg" />
-
-
-<div align="center">
-<img width="50%" alt="FigStep" src="assets/figstep.jpg">
-</div>
-
-(The figure, created by DALL·E 3, is inspired by and serves as a tribute to the film "The Shawshank Redemption.")
+![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) 
 
 
 ## Demo
