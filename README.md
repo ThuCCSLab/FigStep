@@ -6,7 +6,12 @@ Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, <a href="https://tianshuocon
 
 $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!!!}}}$$
 
-[![arXiv](https://img.shields.io/badge/arxiv-2311.05608-b31b1b)](https://arxiv.org/abs/2311.05608) ![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) ![GitHub watchers](https://img.shields.io/github/watchers/ThuCCSLab/FigStep)
+
+
+[![arXiv](https://img.shields.io/badge/arxiv-2311.05608-b31b1b)](https://arxiv.org/abs/2311.05608) 
+![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) 
+<img src="https://badges.toozhao.com/badges/01HMRHJVW62ZSPPQN0X6JF1PPY/blue.svg" />
+
 
 <div align="center">
 <img width="50%" alt="FigStep" src="assets/figstep.jpg">
