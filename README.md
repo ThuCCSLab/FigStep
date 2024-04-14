@@ -16,6 +16,8 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 <img src="https://badges.toozhao.com/badges/01HMRHJVW62ZSPPQN0X6JF1PPY/blue.svg" />
 ![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) 
 
+## News
+`April 14, 2024` 🔥 FigStep will be integrated into [garak](https://github.com/leondz/garak/pull/587), thanks!
 
 ## Demo
 
