@@ -17,9 +17,11 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 ![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) 
 
 ## News
+
+`2024/05` 🔥 FigStep has been integrated into [garak](https://github.com/leondz/garak/pull/587), thanks!
+
 `2024/04` 🔥 FigStep is included in [Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932), thanks!
 
-`2024/05` 🔥 FigStep is integrated into [garak](https://github.com/leondz/garak/pull/587), thanks!
 
 ## Demo
 
