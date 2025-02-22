@@ -20,13 +20,15 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 
 ## News
 
+`2025/03` 🎙🎙🎙 We will present FigStep in the Computer Vision Session at 2:00pm, March 2nd, Philadelphia, U.S.A.
+
 `2025/02` 🔥🔥🔥 [TrustGen](https://arxiv.org/abs/2502.14296) pointed out that FigStep is the only successful jailbreak algorithm against Claude-3.5-sonnet!
 
 `2024/12` 🎊🎊🎊 FigStep is accepted by AAAI 2025!
 
-`2024/05` 🔥 FigStep has been integrated into [garak](https://github.com/leondz/garak/pull/587), thanks!
+`2024/05` 🔥🔥🔥 FigStep has been integrated into [garak](https://github.com/leondz/garak/pull/587), thanks!
 
-`2024/04` 🔥 FigStep is included in [Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932), thanks!
+`2024/04` 🔥🔥🔥 FigStep is included in [Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932), thanks!
 
 
 ## Demo
