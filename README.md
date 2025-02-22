@@ -4,6 +4,8 @@
 
 <h1 align="center">FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts</h1>
 
+<h3 align="center">AAAI 2025 (Oral)</h3>
+
 <p align='center' style="text-align:center;font-size:1em;">
 Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, <a href="https://tianshuocong.github.io/" target="_blank" style="text-decoration: none;">Tianshuo Cong</a>, <a href="mailto: anyuwang@tsinghua.edu.cn" target="_blank" style="text-decoration: none;">Anyu Wang</a>, Sisi Duan, Xiaoyun Wang  
 </p>
@@ -17,6 +19,8 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 ![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) 
 
 ## News
+
+`2025/02` [TrustGen](https://arxiv.org/abs/2502.14296) pointed out that FigStep is the only successful jailbreak algorithm against Claude-3.5-sonnet!
 
 `2024/12` 🎊 FigStep is accepted by AAAI 2025!
 
