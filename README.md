@@ -18,6 +18,19 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 <img src="https://badges.toozhao.com/badges/01HMRHJVW62ZSPPQN0X6JF1PPY/blue.svg" />
 ![GitHub Repo stars](https://img.shields.io/github/stars/ThuCCSLab/FigStep) 
 
+
+```bibtex
+@inproceedings{gong2025figstep,
+  title={Figstep: Jailbreaking large vision-language models via typographic visual prompts},
+  author={Gong, Yichen and Ran, Delong and Liu, Jinyuan and Wang, Conglei and Cong, Tianshuo and Wang, Anyu and Duan, Sisi and Wang, Xiaoyun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={22},
+  pages={23951--23959},
+  year={2025}
+}
+```
+
 ## News
 
 `2025/03` 🎙🎙🎙 We will present FigStep in the Computer Vision Session at 2:00pm, March 2nd, Philadelphia, U.S.A.
@@ -140,16 +153,5 @@ Compared with FigStep, FigStep-Pro leverages additional post-processing: FigStep
 <img width="50%" alt="FigStep" src="assets/gpt4v-shot.png">
 </div>
 
-## 9. Citation
 
-If you find our work helpful, please cite it as follows, thanks!
-```bibtex
-@misc{gong2023figstep,
-      title={FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts}, 
-      author={Yichen Gong and Delong Ran and Jinyuan Liu and Conglei Wang and Tianshuo Cong and Anyu Wang and Sisi Duan and Xiaoyun Wang},
-      year={2023},
-      eprint={2311.05608},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
-}
-```
+
